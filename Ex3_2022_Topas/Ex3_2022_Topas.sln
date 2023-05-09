@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex3_2022_Topas", "Ex3_2022_Topas\Ex3_2022_Topas.csproj", "{06CB871B-0DCA-423F-A822-DAA1B052F074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06CB871B-0DCA-423F-A822-DAA1B052F074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CB871B-0DCA-423F-A822-DAA1B052F074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CB871B-0DCA-423F-A822-DAA1B052F074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CB871B-0DCA-423F-A822-DAA1B052F074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B97F792A-D6E6-492F-AFAA-31827293DB63}
+	EndGlobalSection
+EndGlobal

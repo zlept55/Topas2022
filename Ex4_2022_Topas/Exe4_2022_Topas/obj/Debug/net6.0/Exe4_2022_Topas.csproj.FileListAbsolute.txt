@@ -1,0 +1,5 @@
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Exe4_2022_Topas\Exe4_2022_Topas\obj\Debug\net6.0\Exe4_2022_Topas.csproj.AssemblyReference.cache
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Exe4_2022_Topas\Exe4_2022_Topas\obj\Debug\net6.0\Exe4_2022_Topas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Exe4_2022_Topas\Exe4_2022_Topas\obj\Debug\net6.0\Exe4_2022_Topas.AssemblyInfoInputs.cache
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Exe4_2022_Topas\Exe4_2022_Topas\obj\Debug\net6.0\Exe4_2022_Topas.AssemblyInfo.cs
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Exe4_2022_Topas\Exe4_2022_Topas\obj\Debug\net6.0\Exe4_2022_Topas.csproj.CoreCompileInputs.cache

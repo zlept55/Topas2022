@@ -1,0 +1,15 @@
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Ex2_2022_Topas\Ex2_2022_Topas\bin\Debug\net6.0\Ex2_2022_Topas.exe
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Ex2_2022_Topas\Ex2_2022_Topas\bin\Debug\net6.0\Ex2_2022_Topas.deps.json
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Ex2_2022_Topas\Ex2_2022_Topas\bin\Debug\net6.0\Ex2_2022_Topas.runtimeconfig.json
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Ex2_2022_Topas\Ex2_2022_Topas\bin\Debug\net6.0\Ex2_2022_Topas.dll
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Ex2_2022_Topas\Ex2_2022_Topas\bin\Debug\net6.0\Ex2_2022_Topas.pdb
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Ex2_2022_Topas\Ex2_2022_Topas\obj\Debug\net6.0\Ex2_2022_Topas.csproj.AssemblyReference.cache
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Ex2_2022_Topas\Ex2_2022_Topas\obj\Debug\net6.0\Ex2_2022_Topas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Ex2_2022_Topas\Ex2_2022_Topas\obj\Debug\net6.0\Ex2_2022_Topas.AssemblyInfoInputs.cache
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Ex2_2022_Topas\Ex2_2022_Topas\obj\Debug\net6.0\Ex2_2022_Topas.AssemblyInfo.cs
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Ex2_2022_Topas\Ex2_2022_Topas\obj\Debug\net6.0\Ex2_2022_Topas.csproj.CoreCompileInputs.cache
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Ex2_2022_Topas\Ex2_2022_Topas\obj\Debug\net6.0\Ex2_2022_Topas.dll
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Ex2_2022_Topas\Ex2_2022_Topas\obj\Debug\net6.0\refint\Ex2_2022_Topas.dll
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Ex2_2022_Topas\Ex2_2022_Topas\obj\Debug\net6.0\Ex2_2022_Topas.pdb
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Ex2_2022_Topas\Ex2_2022_Topas\obj\Debug\net6.0\Ex2_2022_Topas.genruntimeconfig.cache
+C:\Users\ESG\Desktop\PS1\Topas_Treino\2022\Ex2_2022_Topas\Ex2_2022_Topas\obj\Debug\net6.0\ref\Ex2_2022_Topas.dll
